@@ -24,4 +24,4 @@ PolicyRules rules = new PolicyRules() {{
 
 The framework can be built easily using Maven (see http://maven.apache.org/ for more details). Executing the target _install_ will build the framework and run a set of unit and integration tests that validate the functional correctness of the system.
 
-NOTE: this work was completed as part of the MSc Degree in Computing for Industry course at Imperial College London.
+This work was completed as part of the MSc Degree in Computing for Industry course at Imperial College London.
